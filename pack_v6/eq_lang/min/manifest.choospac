@@ -1,3 +1,4 @@
 {
+   name: "Modern Equish - minimal",
    description: "Minimal variant of the Modern Equish language that's not as intrusive as the full version"
 }

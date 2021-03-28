@@ -1,3 +1,4 @@
 {
+   name: "regular",
    description: "the stone textures, but with vanilla amount of random in them"
 }
