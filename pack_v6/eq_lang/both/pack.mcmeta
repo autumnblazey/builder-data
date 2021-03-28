@@ -1,0 +1,18 @@
+{
+   "pack": {
+      "pack_format": 6,
+      "description": "\u00a7eMLP:FiM-inspired!\n\u00a7r\u00a7blove-tolerance.com"
+   },
+   "language": {
+      "eq_eqm": {
+         "name": "Modern Equish - Minimal",
+         "region": "Equestria",
+         "bidirectional": false
+      },
+      "eq_eqf": {
+         "name": "Modern Equish - Full",
+         "region": "Equestria",
+         "bidirectional": false
+      }
+   }
+}
