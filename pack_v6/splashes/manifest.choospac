@@ -1,4 +1,5 @@
 {
    name: "splashes",
-   description: "modifies the splashes on the main title screen"
+   description: "modifies the splashes on the main title screen",
+   category: "misc"
 }

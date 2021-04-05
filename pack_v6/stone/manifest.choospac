@@ -1,4 +1,5 @@
 {
    name: "stone",
-   description: "stone textures"
+   description: "stone textures",
+   category: "block"
 }

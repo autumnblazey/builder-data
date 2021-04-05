@@ -1,4 +1,5 @@
 {
    name: "skeleton",
-   description: "skeleton textures"
+   description: "skeleton textures",
+   category: "entity"
 }

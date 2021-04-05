@@ -1,4 +1,5 @@
 {
    name: "villager sounds",
-   description: "adds villager sounds"
+   description: "adds villager sounds",
+   category: "sound"
 }

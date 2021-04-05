@@ -1,4 +1,5 @@
 {
    name: "Modern Equish",
-   description: "Modern Equish custom language"
+   description: "Modern Equish custom language",
+   category: "lang"
 }
